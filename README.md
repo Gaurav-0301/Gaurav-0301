@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Hey, I'm Gaurav<br><br>💻 2nd Year B.Tech IT Student<br>🌐 MERN Stack Developer<br>⚡ Turning ideas into scalable and real-world web applications<br>📚 Constantly learning new technologies<br>🚀 Focused on growth & real-world problem solving<br>🤝 Open to collaboration and exciting development opportunities
+🚀 Hey, I'm Gaurav<br><br>💻 2nd Year B.Tech IT Student<br>🌐 MERN Stack Development<br>⚡ Turning ideas into scalable and real-world web applications<br>📚 Constantly learning new technologies<br>🚀 Focused on growth & real-world problem solving<br>🤝 Open to collaboration and exciting development opportunities
 
 
 ## 🌐 Socials:
